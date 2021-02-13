@@ -22,7 +22,12 @@
 		"visualstudioexptteam.vscodeintellicode",
 		"coenraads.bracket-pair-colorizer-2",
 		"quicktype.quicktype",
-		"esbenp.prettier-vscode"
+		"esbenp.prettier-vscode",
+		"wmaurer.change-case",
+		"christian-kohler.path-intellisense",
+		"knisterpeter.vscode-commitizen",
+		"ms-azuretools.vscode-docker",
+		"ms-vscode.vscode-typescript-tslint-plugin"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
