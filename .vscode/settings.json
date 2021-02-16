@@ -1,0 +1,19 @@
+{
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    90
+  ],"editor.minimap.enabled": false,
+  "html.autoClosingTags": true,
+  "editor.formatOnType": true,
+  "editor.autoIndent": "full",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false,
+    "source.fixAll.tslint": true
+  },
+  "prettier.printWidth": 90, // Following setting requires Prettier Extension
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+}
